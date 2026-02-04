@@ -1,4 +1,4 @@
-# VITMAS_TASK0_21BDS0085
+# Git Commands
 all git commands
 git status	Check status
 
